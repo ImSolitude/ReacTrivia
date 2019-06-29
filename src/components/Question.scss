@@ -1,0 +1,48 @@
+.question-box h2 {
+  color: white;
+}
+.question-box ul {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+}
+.container.questions .question-box ul {
+  margin-bottom: 2rem;
+}
+.question-box ul li,
+.categories li {
+  cursor: pointer;
+  flex: 0 1 calc(50% - 5px);
+  background: #131e29;
+  border: 1px solid #3c4c5e;
+  color: white;
+  font-size: 1.1rem;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+  margin-bottom: 10px;
+  &:hover {
+    background: #3d383a;
+    border-color: #f29559;
+  }
+  &:active,
+  &:focus {
+    background: #3d383a;
+    border-color: #f29559;
+  }
+  @media screen and (max-width: 570px) {
+    flex-basis: 100% !important;
+    font-size: 0.9rem !important;
+  }
+}
+
+.question-box ul li span {
+  display: flex;
+  align-items: center;
+}
+.question-box ul li input[type="radio"] {
+  margin-right: 10px;
+  background: red;
+}
+// selected={this.state.selectedIndex === i}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReacTrivia/static/css/main.4fca310e.chunk.css",
+    "main.js": "/ReacTrivia/static/js/main.46592819.chunk.js",
+    "main.js.map": "/ReacTrivia/static/js/main.46592819.chunk.js.map",
+    "runtime~main.js": "/ReacTrivia/static/js/runtime~main.55d81871.js",
+    "runtime~main.js.map": "/ReacTrivia/static/js/runtime~main.55d81871.js.map",
+    "static/js/2.f1d6c0dc.chunk.js": "/ReacTrivia/static/js/2.f1d6c0dc.chunk.js",
+    "static/js/2.f1d6c0dc.chunk.js.map": "/ReacTrivia/static/js/2.f1d6c0dc.chunk.js.map",
+    "index.html": "/ReacTrivia/index.html",
+    "precache-manifest.e11da5891941886498163cc7b5e28a90.js": "/ReacTrivia/precache-manifest.e11da5891941886498163cc7b5e28a90.js",
+    "service-worker.js": "/ReacTrivia/service-worker.js",
+    "static/css/main.4fca310e.chunk.css.map": "/ReacTrivia/static/css/main.4fca310e.chunk.css.map"
+  }
+}

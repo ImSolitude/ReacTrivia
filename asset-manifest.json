@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ReacTrivia/static/css/main.4fca310e.chunk.css",
-    "main.js": "/ReacTrivia/static/js/main.46592819.chunk.js",
-    "main.js.map": "/ReacTrivia/static/js/main.46592819.chunk.js.map",
-    "runtime~main.js": "/ReacTrivia/static/js/runtime~main.55d81871.js",
-    "runtime~main.js.map": "/ReacTrivia/static/js/runtime~main.55d81871.js.map",
-    "static/js/2.f1d6c0dc.chunk.js": "/ReacTrivia/static/js/2.f1d6c0dc.chunk.js",
-    "static/js/2.f1d6c0dc.chunk.js.map": "/ReacTrivia/static/js/2.f1d6c0dc.chunk.js.map",
-    "index.html": "/ReacTrivia/index.html",
-    "precache-manifest.e11da5891941886498163cc7b5e28a90.js": "/ReacTrivia/precache-manifest.e11da5891941886498163cc7b5e28a90.js",
-    "service-worker.js": "/ReacTrivia/service-worker.js",
-    "static/css/main.4fca310e.chunk.css.map": "/ReacTrivia/static/css/main.4fca310e.chunk.css.map"
+    "main.css": "/ToDone/static/css/main.23922f03.chunk.css",
+    "main.js": "/ToDone/static/js/main.83d0b916.chunk.js",
+    "main.js.map": "/ToDone/static/js/main.83d0b916.chunk.js.map",
+    "runtime~main.js": "/ToDone/static/js/runtime~main.11c34067.js",
+    "runtime~main.js.map": "/ToDone/static/js/runtime~main.11c34067.js.map",
+    "static/js/2.977c668d.chunk.js": "/ToDone/static/js/2.977c668d.chunk.js",
+    "static/js/2.977c668d.chunk.js.map": "/ToDone/static/js/2.977c668d.chunk.js.map",
+    "index.html": "/ToDone/index.html",
+    "precache-manifest.61dd104fd1f66d6a47f9def87d070331.js": "/ToDone/precache-manifest.61dd104fd1f66d6a47f9def87d070331.js",
+    "service-worker.js": "/ToDone/service-worker.js",
+    "static/css/main.23922f03.chunk.css.map": "/ToDone/static/css/main.23922f03.chunk.css.map",
+    "static/media/index.css": "/ToDone/static/media/HelveticaNowText-Regular.c9442de9.woff"
   }
 }
